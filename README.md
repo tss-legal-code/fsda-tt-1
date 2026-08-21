@@ -156,6 +156,8 @@ npm run dev
 
 The database is automatically created and seeded with test data on first startup.
 
+_node version 26.0.0_
+
 The app runs at `http://localhost:3000`.
 
 **Concierge dashboard:** `http://localhost:3000`
